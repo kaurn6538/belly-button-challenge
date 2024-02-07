@@ -1,6 +1,6 @@
 # Belly Button Challenge
 
-<img width="280"  src="![Uploading Screenshot 2024-02-07 at 4.43.48 PM.png…]()">
+![Uploading Screenshot 2024-02-07 at 4.43.48 PM.png…]()
    
 ## Deployment
 
