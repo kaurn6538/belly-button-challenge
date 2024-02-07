@@ -1,8 +1,6 @@
 # Belly Button Challenge
 
-![Uploading 211830221-402ccbc8-c54d-4ed5-aede-62222434b299.png…]()
-
-<img width="280" alt="Screenshot 2024-01-16 at 4 07 52 PM" src="https://github.com/kaurn6538/nosql-challenge/assets/98873779/84f4297b-2465-4679-b27f-3a3cfb571034">
+<img width="280"  src="![Uploading 211830221-402ccbc8-c54d-4ed5-aede-62222434b299.png…]()">
    
 ## Deployment
 
