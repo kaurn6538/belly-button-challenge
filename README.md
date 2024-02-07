@@ -1,6 +1,6 @@
 # Belly Button Challenge
 
-[![Uploading 211830221-402ccbc8-c54d-4ed5-aede-62222434b299.png…]()]
+![Uploading 211830221-402ccbc8-c54d-4ed5-aede-62222434b299.png…]()
 
 ## Deployment
 
