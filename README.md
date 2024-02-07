@@ -1,6 +1,7 @@
 # Belly Button Challenge
 
- <img width="280" alt="Screenshot 2024-02-07 at 5.00.09 PM.png" src="/Users/sonunancy/Desktop/Screenshot 2024-02-07 at 5.00.09 PM.png">
+ <img width="280" alt="Screenshot 2024-02-07 at 5.00.09 PM.png" src="![Uploading Screenshot 2024-02-07 at 5.00.09 PM.png…]()
+">
    
    
 ## Deployment
