@@ -1,6 +1,6 @@
 # Belly Button Challenge
 
- <img width="280" alt="Screenshot 2024-02-07 at 5.00.09 PM.png" src="https://github.com/kaurn6538/belly-button-challenge">
+ <img width="280" alt="Screenshot 2024-02-07 at 5.00.09 PM.png" src="/Users/sonunancy/Desktop/Screenshot 2024-02-07 at 5.00.09 PM.png">
    
    
 ## Deployment
