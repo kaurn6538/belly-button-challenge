@@ -4,7 +4,7 @@
    
 ## Deployment
 
-Here is a link to the dashboard: https://jeremytallant.github.io/belly-button-challenge/
+Here is a link to the dashboard(http://127.0.0.1:5500/index.html)
 Background
 
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
