@@ -1,6 +1,7 @@
 # Belly Button Challenge
 
-![Uploading Screenshot 2024-02-07 at 4.43.48 PM.png…]()
+ <img width="280" alt="Screenshot 2024-02-07 at 5.00.09 PM.png" src="https://github.com/kaurn6538/belly-button-challenge">
+   
    
 ## Deployment
 
